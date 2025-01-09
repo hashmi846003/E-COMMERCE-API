@@ -1,5 +1,5 @@
 
-WEBSITE: https://roadmap.sh/projects/scalable-ecommerce-platform
+WEBSITE: https://roadmap.sh/projects/ecommerce-api
 
 E-Commerce API
 This project is an API for an e-commerce platform built with Go. It provides functionality for user authentication, product management, and payment processing.
